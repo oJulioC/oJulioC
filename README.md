@@ -2,7 +2,16 @@
 <hr>
 <h2>Sou estudante de programação(comecei em 2022, dei umas paradas, e comecei a levar a sério no começo do ano)</h2>
 <br>
-<h3>Tô aprendendo atualmente Java, mas sei tambémo básico de Lua e HTML</h3>
+<h3>Tô aprendendo atualmente Java</h3>
+<hr>
+<dl>
+   <dt> Java </dt>
+   <dd> Conhecimento básico da linguagem. Estudando para saber mais e mais </dd>
+   <dt> Lua </dt>
+   <dd> Conhecimento básico também, mas não busco me aprofundar nesta tecnologia </dd>
+   <dt> HTML </dt>
+   <dd> Usei um pouco do que sei para fazer a página</dd>
+</dl>
 <hr>
 <p>Bom, é isso né? Estou estudando e cada dia melhorando 👍</p>
 <!---
