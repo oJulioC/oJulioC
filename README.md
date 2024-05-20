@@ -2,7 +2,6 @@
 <hr>
 <h2>Sou estudante de programação(comecei em 2022, dei umas paradas, e comecei a levar a sério no começo do ano)</h2>
 <br>
-<h3>Tô aprendendo atualmente Java</h3>
 <hr>
 <dl>
    <dt> Java </dt>
