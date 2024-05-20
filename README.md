@@ -1,8 +1,8 @@
 <h1>👋 Opa, meu nome é Júlio</h1>
 <hr>
-<h2>Tô entrando no mundo da programação e ainda não defini que área eu quero, estou estudando cada uma até me intensificar com algo</h2>
+<h2>Sou estudante de programação(comecei em 2022, dei umas paradas, e comecei a levar a sério no começo do ano)</h2>
 <br>
-<h3>Tô aprendendo atualmente HTML e CSS, porém é mais para achar um área, como eu disse acima. Talvez eu fique no front-end, ou eu mude para o back-end, ou até eu seja um desenvolvedor de jogos. Ainda não sei...</h3>
+<h3>Tô aprendendo atualmente Java, mas sei tambémo básico de Lua e HTML</h3>
 <hr>
 <p>Bom, é isso né? Estou estudando e cada dia melhorando 👍</p>
 <!---
