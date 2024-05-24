@@ -3,9 +3,10 @@
 <h2>Sou estudante de programação(comecei em 2022, dei umas paradas, e comecei a levar a sério no começo do ano)</h2>
 <br>
 <hr>
+<h1> 💻Tecnologias💻</h1>
 <dl>
    <dt> Java </dt>
-   <dd> Conhecimento básico da linguagem. Estudando para saber mais e mais </dd>
+   <dd> Conhecimento básico da sintaxe e de POO. Estudando para saber mais e mais </dd>
    <dt> Lua </dt>
    <dd> Conhecimento básico também, mas não busco me aprofundar nesta tecnologia </dd>
    <dt> HTML </dt>
