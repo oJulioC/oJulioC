@@ -8,7 +8,7 @@
    <dt> Java </dt>
    <dd> Conhecimento da sintaxe e um pouco de POO. Estudando para saber mais e mais </dd>
    <dt> Lua </dt>
-   <dd> Conhecimento básico também, mas não busco me aprofundar nesta tecnologia </dd>
+   <dd> Conhecimento da sintaxe também</dd>
    <dt> HTML </dt>
    <dd> Usei um pouco do que sei para fazer a página</dd>
 </dl>
