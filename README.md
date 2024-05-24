@@ -13,6 +13,14 @@
    <dd> Usei um pouco do que sei para fazer a página</dd>
 </dl>
 <hr>
+<h1> 📚Cursos concluídos📚 </h1>
+<dl>
+   <dt> Curso em Vídeo_ Algoritmos </dt>
+   <dd> Curso que ensina algoritmos/lógica de programação</dd>
+   <dt> Curso em Vídeo_ Java </dt>
+   <dd> Curso que ensina a sintaxe de Java e como montar interfaces com Swing e JavaFX </dd>
+</dl>
+<hr>
 <p>Bom, é isso né? Estou estudando e cada dia melhorando 👍</p>
 <!---
 oJulioC/oJulioC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
