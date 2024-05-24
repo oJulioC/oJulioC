@@ -6,7 +6,7 @@
 <h1> 💻Tecnologias💻</h1>
 <dl>
    <dt> Java </dt>
-   <dd> Conhecimento básico da sintaxe e de POO. Estudando para saber mais e mais </dd>
+   <dd> Conhecimento da sintaxe e um pouco de POO. Estudando para saber mais e mais </dd>
    <dt> Lua </dt>
    <dd> Conhecimento básico também, mas não busco me aprofundar nesta tecnologia </dd>
    <dt> HTML </dt>
